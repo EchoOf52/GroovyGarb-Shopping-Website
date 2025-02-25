@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'work sans';
+    src: url("./fonts/Work Sans.ttf")
+}
+
 * {
     margin: 0px;
     padding: 0px;
